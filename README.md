@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BeatrizKuriki.
 - 👀 I’m interested in everything related to technology.
-- 🌱 I’m currently learning HTML5, CSS and JavaScript.
-- 💞️ I’m looking to collaborate on any front end project.
+- 🌱 I’m currently learning HTML5, CSS, JavaScript and Java.
+- 💞 At the moment I'm focused on Java.
 - 📫 How to reach me:
 www.linkedin.com/in/beatriz-alencar-kuriki
 <!---
