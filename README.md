@@ -31,8 +31,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
  <img align="center" alt="Beatriz VsCode " height="70" width="90"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="center" alt="Beatriz Intellij " height="70" width="90"
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
+
+
           
           
           
