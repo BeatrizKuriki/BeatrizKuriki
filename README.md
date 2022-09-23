@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Beatriz Alencar Kuriki
 
 - 🔭 1º ano Engenharia de Software UNIFIL
-- 🌱 Estudando JAVA 
+- 🌱 Dev JAVA 
 - 🌱 Já vi um pouco de HTML5, CSS3 e JavaScript
 - 🔥 Back-End
 
