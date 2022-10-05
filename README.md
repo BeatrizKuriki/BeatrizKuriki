@@ -4,8 +4,13 @@
 - 🌱 Dev JAVA 
 - 🌱 Já vi um pouco de HTML5, CSS3 e JavaScript
 - 🔥 Back-End
++<div style="display: inline_block" align = "center">
+<h2>
+<a target = "_blanck" style="text-decoration: none" href="https://github.com/BeatrizKuriki?tab=stars"> Acesse meus repositórios aqui</a>
+</h2>
+</div>
 
-<div align = "center">
+<div style="display: inline_block" align = "center">
   <a href="https://github.com/BeatrizKuriki">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=BeatrizKuriki&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizKuriki&layout=compact&langs_count=168&theme=chartreuse-dark"/>
