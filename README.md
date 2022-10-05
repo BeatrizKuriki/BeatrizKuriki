@@ -4,7 +4,7 @@
 - 🌱 Dev JAVA 
 - 🌱 Já vi um pouco de HTML5, CSS3 e JavaScript
 - 🔥 Back-End
-+<div style="display: inline_block" align = "center">
+<div style="display: inline_block" align = "center">
 <h2>
 <a target = "_blanck" style="text-decoration: none" href="https://github.com/BeatrizKuriki?tab=stars"> Acesse meus repositórios aqui</a>
 </h2>
