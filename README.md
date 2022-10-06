@@ -1,22 +1,36 @@
-## Olá! Eu sou a Beatriz Alencar Kuriki
+# Olá, sou a Beatriz Alencar Kuriki.
+## Seja bem-vindo(a)!
 
-- 🔭 1º ano Engenharia de Software UNIFIL
-- 🌱 Dev JAVA 
-- 🌱 Já vi um pouco de HTML5, CSS3 e JavaScript
-- 🔥 Back-End
-<div style="display: inline_block" align = "center">
-<h2>
-<a target = "_blanck" style="text-decoration: none" href="https://github.com/BeatrizKuriki?tab=stars"> Acesse meus repositórios aqui</a>
-</h2>
+Sou uma desenvolvedora Back-end e com formação inicial em Direito.
+Atualmente estudo Engenharia de Software.
+
+<div align='center'>
+  <h2>
+    <a
+    target="_blank"
+    style="text-decoration: none"
+    href="https://github.com/BeatrizKuriki?tab=stars"
+    >Acesse meus repositórios aqui</a>
+  </h2>
 </div>
+
+<br>
+
+## :chart_with_upwards_trend: Minhas estatísticas
 
 <div style="display: inline_block" align = "center">
   <a href="https://github.com/BeatrizKuriki">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=BeatrizKuriki&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizKuriki&layout=compact&langs_count=168&theme=chartreuse-dark"/>
+          
+</div>
+</div>
 
+<div align = "center">
+<a href="https://git.io/streak-stats">
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=BeatrizKuriki&theme=hacker"/> 
+</div>
 
-    
 </div>
  
   As tecnologias que uso:
@@ -39,15 +53,16 @@
   <img align="center" alt="Beatriz Trello" height="70" width="90" 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
  <img align="center" alt="Beatriz VsCode " height="70" width="90"
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
-
-          
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />   
+ <img align="center"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
           
 
           
 </div>
+
+
+## Meus contatos
+ </div>
 
 ##
 
@@ -60,9 +75,4 @@
   
 
 
-</div>
 
-<div align = "center">
-<a href="https://git.io/streak-stats">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=BeatrizKuriki&theme=hacker"/> 
-</div>
