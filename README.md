@@ -2,7 +2,7 @@
 ## Seja bem-vindo(a)!
 
 Sou uma desenvolvedora Back-end e com formação inicial em Direito.
-Atualmente estudo Engenharia de Software.
+
 
 <div align='center'>
   <h2>
