@@ -1,4 +1,4 @@
-# Olá, sou a Beatriz Alencar Kuriki.
+
 ## Seja bem-vindo(a)!
 
 Sou uma desenvolvedora Back-end e com formação inicial em Direito.
