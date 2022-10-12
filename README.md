@@ -1,7 +1,25 @@
+<div>
+ <h3 align="center">
+    Olá! Bem vindo(a) ao meu GitHub!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ </h3>
+    <p align="center">
+      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20Development!;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+    </p>
+</div>
 
-## Seja bem-vindo(a)!
+<div dsplay="inline-block" align="center">
+ <h1>🦋 Beatriz Kuriki 🦋</h1>
+ <a href="https://www.linkedin.com/in/beatriz-alencar-kuriki/" target="_blank">
+    <img width="80px" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedin" align="top" target="_blank">
+ </a>
+ <a href="dev.beatriz.alencar@gmail.com">
+    <img width="80px" src="https://img.icons8.com/bubbles/100/000000/gmail.png" alt="email-gmail" align="top"/>
+ </a>
 
-Sou uma desenvolvedora Back-end e com formação inicial em Direito.
+
+
+
 
 
 <div align='center'>
