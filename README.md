@@ -1,8 +1,10 @@
 <div>
  <h3 align="center">
     Olá! Bem vindo(a) ao meu GitHub!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
- </h3>
+   
+ 
+ <!-- PRESENTATION (GIF) -->
+<img align="left" src="https://media.giphy.com/media/klqFYuUe5aIwl269hw/giphy.gif" alt=".github/cat.gif"  width="20%"/>
     <p align="center">
       <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20Development!;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
     </p>
@@ -51,6 +53,12 @@
 
 </div>
  
+ <br><br>
+<p align="left">
+<img align="right" width=300px alt="urso" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+</P>
+<br>
+ 
   As tecnologias que uso:
 
 <div style="display: inline_block" align = "center"><br>
@@ -77,6 +85,15 @@
 
           
 </div>
+ 
+  <br> <br>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>Eu adoro me conectar com diferentes pessoas</b>  :blush:</em><br>
+   
+ Obrigada pela visita. <br>
+  <img align="left" src="https://media.giphy.com/media/xUOxf9qA9iupNWfT3y/giphy.gif" alt="heart" width="30px">
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+ 
 
 
 
