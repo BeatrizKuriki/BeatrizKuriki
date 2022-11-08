@@ -90,7 +90,7 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>Eu adoro me conectar com diferentes pessoas</b>  :blush:</em><br>
    
- Obrigada pela visita. <br>
+ <b>Obrigada pela visita!</b><br>
   <img align="left" src="https://media.giphy.com/media/xUOxf9qA9iupNWfT3y/giphy.gif" alt="heart" width="30px">
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
  
