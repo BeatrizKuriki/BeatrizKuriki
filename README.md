@@ -1,3 +1,12 @@
+ <div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+</div>
+
+
+
+
+
+
 <div>
  <h3 align="center">
     Olá! Bem vindo(a) ao meu GitHub!
@@ -33,6 +42,8 @@
     >Acesse meus repositórios aqui</a>
   </h2>
 </div>
+ 
+
 
 <br>
 
@@ -54,6 +65,8 @@
 </div>
  
  <br><br>
+ 
+ 
 <p align="left">
 <img align="right" width=300px alt="urso" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 </P>
