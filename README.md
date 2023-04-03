@@ -62,45 +62,13 @@
  <br><br>
  
  
-<p align="left">
-<img align="right" width=300px alt="urso" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<p align="center">
+<img align="center" width=300px alt="urso" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 </P>
 <br>
  
-  As tecnologias que uso:
-
-<div style="display: inline_block" align = "center"><br>
-  <img align="center" alt="Beatriz-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  <img align="center" alt="Beatriz-JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- <img align="center" alt="Beatriz-HTML" height="50" width="60"  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Beatriz-CSS" height="40" width="40"         
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
- <img align="center" alt="Beatriz-MySQL" height="80" width="100"  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
- <img align="center" alt="Beatriz-Git" height="70" width="90"  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
- <img align="center" alt="Beatriz-GitHub" height="70" width="90"
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
- <img align="center" alt="Beatriz Jira" height="70" width="90"  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-  <img align="center" alt="Beatriz Trello" height="70" width="90" 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
- <img align="center" alt="Beatriz VsCode " height="70" width="90"
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />   
- <img align="center"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-          
-
-          
-</div>
  
-  <br> <br>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>Eu adoro me conectar com diferentes pessoas</b>  :blush:</em><br>
-   
- <b>Obrigada pela visita!</b><br>
-  <img align="left" src="https://media.giphy.com/media/xUOxf9qA9iupNWfT3y/giphy.gif" alt="heart" width="30px">
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
  
 
 
