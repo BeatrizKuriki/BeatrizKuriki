@@ -42,7 +42,7 @@
 
 <br>
 
-## :chart_with_upwards_trend: Minhas estatísticas
+
 
 <div style="display: inline_block" align = "center">
   <a href="https://github.com/BeatrizKuriki">
@@ -52,10 +52,7 @@
 </div>
 </div>
 
-<div align = "center">
-<a href="https://git.io/streak-stats">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=BeatrizKuriki&theme=hacker"/> 
-</div>
+
 
 </div>
  
