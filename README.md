@@ -16,27 +16,17 @@
 
 <div dsplay="inline-block" align="center">
  <h1>🦋 Beatriz Kuriki 🦋</h1>
- <a href="https://www.linkedin.com/in/beatriz-alencar-kuriki/" target="_blank">
-    <img width="80px" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedin" align="top" target="_blank">
- </a>
- <a href="dev.beatriz.alencar@gmail.com">
-    <img width="80px" src="https://img.icons8.com/bubbles/100/000000/gmail.png" alt="email-gmail" align="top"/>
- </a>
-
-
-
-
-
-
-<div align='center'>
-  <h2>
-    <a
-    target="_blank"
-    style="text-decoration: none"
-    href="https://github.com/BeatrizKuriki?tab=stars"
-    >Acesse meus repositórios aqui</a>
-  </h2>
+<div> 
+  <a href="https://www.youtube.com/channel/UCRp30WHAVTRH5S8yzJoELVA" target="_blank"><img src="https://img.shields.io/badge/YouTube-0000CD?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/beatrizkuriki/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0000CD?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "dev.beatriz.alencar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0000CD?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/beatriz-alencar-kuriki/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0000CD?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  <a href="https://www.freepik.com/free-photo/coffee_1271492.htm" target="_blank"><img src="https://github.com/IsadoraFerrao/IsadoraFerrao/blob/main/coffee.png" alt="Free coffee for visitors" style="height: 40px !important;width: 150px !important;" ></a>
+  
+  ![Snake animation](https://github.com/IsadoraFerrao/IsadoraFerrao/blob/main/snake.svg)
 </div>
+
  
 
 
